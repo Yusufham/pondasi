@@ -1,0 +1,30 @@
+.button-container{
+ width: 100vw;
+ display: flex;
+ justify-content: space-between;   
+}
+.logo img{
+    width: 15vw;
+    height: 7vh
+    ;
+}
+
+.menu{
+    margin-right: 2.5vw;
+}
+.selected-buttons{
+width: 15vw;
+height: 5.5vh;
+background-color: salmon;
+margin-left: 5vw;
+border-radius: 6px;
+font-size: 1.5vw;
+}
+.button{
+    width: 15vw;
+    height: 5.5vh;
+    background-color:pink;
+    margin-left: 5vw;
+    border-radius: 15px;
+    font-size: 1.5vw;
+}

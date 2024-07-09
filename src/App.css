@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.navbar{
+  background-color: red;
+  width: 100vw;
+  height: 9vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+}
